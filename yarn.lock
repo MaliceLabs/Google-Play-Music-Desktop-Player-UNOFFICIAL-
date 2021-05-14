@@ -9692,10 +9692,10 @@ yauzl@2.4.1:
   dependencies:
     fd-slicer "~1.0.1"
 
-ytmusic.js@^6.2.2:
-  version "6.2.2"
-  resolved "https://registry.yarnpkg.com/ytmusic.js/-/ytmusic.js-6.2.2.tgz#48a9a35c2cc9f02b73ef4bd563d890327ac85554"
-  integrity sha512-cmwhXHnq5Hq1iH/S5LCvkoIFWvE6YM69xIjm6MOT9EvRg6MaFeVZDYViZ86WWm9hLhAgLHdMVdXklAhxMp5bnw==
+ytmusic.js@^6.2.3:
+  version "6.2.3"
+  resolved "https://registry.yarnpkg.com/ytmusic.js/-/ytmusic.js-6.2.3.tgz#14c8098eb1e20c443bcb4e3bee4489791267ca33"
+  integrity sha512-SZZBQw1jvti6AKIWGlSNfFM5eK021MXODChZpIHDQ8YBuDCT6vWrhlXn4mwFI5+fDyai2JPERa2rpJtOncrOww==
 
 zip-stream@^1.1.0, zip-stream@^1.2.0:
   version "1.2.0"
